@@ -13,3 +13,10 @@ DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,yunhai.laodaemby.xyz
 DOMAIN-SUFFIX,emby.laodaemby.xyz
+
+#taobao
+IP-CIDR,47.246.0.0/16
+IP-CIDR,163.181.0.0/16
+IP-CIDR,155.102.0.0/16
+
+# IP-CIDR,127.0.0.0/8
