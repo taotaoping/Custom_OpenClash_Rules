@@ -12,7 +12,7 @@ DOMAIN-KEYWORD,shopline
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.akadns.net
 DOMAIN-SUFFIX,yunhai.laodaemby.xyz
-#DOMAIN-SUFFIX,emby.laodaemby.xyz
+DOMAIN-SUFFIX,emby.laodaemby.xyz
 
 #taobao
 IP-CIDR,47.246.0.0/16
