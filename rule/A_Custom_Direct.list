@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,iotcplatform.com
 DOMAIN-KEYWORD,shopline
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.akadns.net
-DOMAIN-SUFFIX,emby.xiaye.ggff.net
+DOMAIN-SUFFIX,xiaye.ggff.net
 
 #taobao
 IP-CIDR,47.246.0.0/16
